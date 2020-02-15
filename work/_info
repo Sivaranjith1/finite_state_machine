@@ -1,0 +1,51 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dd:/program files/examples
+Estate_machine
+Z0 w1581785536
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Users/ranji/Documents/vhdl/state_machine
+Z5 8C:/Users/ranji/Documents/vhdl/state_machine/state_machine.vhd
+Z6 FC:/Users/ranji/Documents/vhdl/state_machine/state_machine.vhd
+l0
+L5
+VIhGjQkZ8kjPPT`ZdSEN?O3
+!s100 YQ]YI;dWK<3dBXX=@=_]d0
+Z7 OP;C;10.4a;61
+32
+Z8 !s110 1581785543
+!i10b 1
+Z9 !s108 1581785543.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/ranji/Documents/vhdl/state_machine/state_machine.vhd|
+Z11 !s107 C:/Users/ranji/Documents/vhdl/state_machine/state_machine.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+DEx4 work 13 state_machine 0 22 IhGjQkZ8kjPPT`ZdSEN?O3
+l19
+L15
+VGWob9LN`K0hV:dW?2ffg83
+!s100 9USngTJ8j^DnPf4TGlOTz2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
